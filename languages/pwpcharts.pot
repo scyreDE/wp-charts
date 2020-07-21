@@ -32,19 +32,19 @@ msgid "You do not have sufficient permissions to access this page."
 msgstr ""
 
 #: templates/settings.php:1
-msgid "LOADING"
+msgid "Wird geladen."
 msgstr ""
 
 #: templates/settings.php:1
-msgid "Please wait..."
+msgid "Bitte warten."
 msgstr ""
 
 #: templates/settings.php:10
-msgid "Please choose the type here"
+msgid "Bitte den entsprechenden Typen aussuchen"
 msgstr ""
 
 #: templates/settings.php:12
-msgid "Pie Chart"
+msgid "Kuchen/Pie Chart"
 msgstr ""
 
 #: templates/settings.php:13
@@ -56,11 +56,11 @@ msgid "Doughnut Chart"
 msgstr ""
 
 #: templates/settings.php:15
-msgid "Line Chart"
+msgid "Linien/Line Chart"
 msgstr ""
 
 #: templates/settings.php:16
-msgid "Bar Chart"
+msgid "Block/Bar Chart"
 msgstr ""
 
 #: templates/settings.php:17
@@ -68,55 +68,53 @@ msgid "Radar Chart"
 msgstr ""
 
 #: templates/settings.php:22
-msgid "Display Legend?"
+msgid "Soll die Legende dargestellt werden?"
 msgstr ""
 
 #: templates/settings.php:24
-msgid "No"
+msgid "Nein"
 msgstr ""
 
 #: templates/settings.php:25
-msgid "Yes"
+msgid "Ja"
 msgstr ""
 
 #: templates/settings.php:30
-msgid "Please add the titles here"
+msgid "Bitte füge hier die Titel hinzu"
 msgstr ""
 
 #: templates/settings.php:35
-msgid "Please add the values here"
+msgid "Bitte füge hier die Werte hinzu"
 msgstr ""
 
 #: templates/settings.php:40
 msgid ""
-"Specify the maximum value, that you would like to be displayed on the "
-"chart or leave it empty."
+"Spezifiziere dene Maximalwert des Charts "
+"oder lasse das Feld leer."
 msgstr ""
 
 #: templates/settings.php:45
-msgid "Generate"
+msgid "Chart erstellen."
 msgstr ""
 
 #: templates/settings.php:50
-msgid "Please copy this shortcode to any of your page or post"
+msgid "Bitte kopiere diesen Shortcode in deinen Beitrag oder auf deine erstelle Seite um ihn anzeigen zu lassen."
 msgstr ""
 
 #: templates/settings.php:51
-msgid "The shortcode will be displayed after you clicked the Generate button"
+msgid "Der Shortcode wird nach dem klicken auf 'Chart erstellen' angezeigt."
 msgstr ""
 
 #: wp-charts-and-graphs.php:71
 msgid ""
-"The titles parameter couldn't be empty! Please specify a comma separated "
-"list."
+"Die Titelleiste darf nicht leer bleiben, bitte definiere sie. Mehrere Titel werden mit Komma getrennt."
 msgstr ""
 
 #: wp-charts-and-graphs.php:74
 msgid ""
-"The values parameter couldn't be empty! Please specify a comma separated "
-"list."
+"Die Werteleiste darf nicht leer bleiben, bitte definiere sie. Mehrere Werte werden mit Komma getrennt."
 msgstr ""
 
 #: wp-charts-and-graphs.php:136
-msgid "Settings"
+msgid "Einstellungen"
 msgstr ""
